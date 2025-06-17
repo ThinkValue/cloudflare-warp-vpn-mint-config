@@ -1,4 +1,7 @@
-# Cloudflare WARP Installation & Usage Guide
+# Linux Mint: Cloudflare WARP Installation & Usage Guide
+
+The official instructions can be found at: 
+https://one.one.one.one/ 
 
 ## Installation
 
@@ -41,3 +44,8 @@ For OPTIONS use:
 ```bash
 warp-cli 
 ```
+Then go to
+https://www.speedtest.net/
+to test if it's active.
+
+![image](https://github.com/user-attachments/assets/6c2f5555-14c2-40a8-8fde-cab7013a53f6)
